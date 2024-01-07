@@ -13,8 +13,4 @@ HTML: Structure and semantic markup of the website's content.
 CSS: Styling and layout to achieve a visually appealing design and responsiveness.
 JavaScript: Adding interactivity and dynamic features to the website.
 
-How to Use:
-Clone the repository: git clone https://github.com/PritiPatankar/Sundown-Studio-Website-Responsive-Clone.git
-Open index.html in your preferred web browser.
-
 Link to the original website: https://www.sundown-studio.com
