@@ -1,6 +1,6 @@
 Responsive Website Clone
 
-Overview
+Overview:
 This project is a clone of a responsive website built using HTML, CSS, and JavaScript. The goal was to recreate the original website's layout and functionality while ensuring a seamless user experience across various devices and screen sizes.
 
 Features:
