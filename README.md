@@ -14,3 +14,6 @@ CSS: Styling and layout to achieve a visually appealing design and responsivenes
 JavaScript: Adding interactivity and dynamic features to the website.
 
 Link to the original website: https://www.sundown-studio.com
+
+
+https://github.com/PritiPatankar/Page-Minimize-Feature/assets/115872293/c947a0d0-baab-4ff5-85fd-fc42ff39d1e4
